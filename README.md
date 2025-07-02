@@ -44,7 +44,7 @@ nltk.download('punkt')
 python main.py 
 
 5. Lancer les tests :
-pytest
+pytest tests/
 
 
 ## 🐳 Lancer le projet avec Docker
