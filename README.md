@@ -40,8 +40,12 @@ pip install -r requirements.txt
 import nltk
 nltk.download('punkt')
 
-3. Lancer les tests :
+3. Lancer le main :
+python main.py 
+
+5. Lancer les tests :
 pytest
+
 
 ## 🐳 Lancer le projet avec Docker
 
